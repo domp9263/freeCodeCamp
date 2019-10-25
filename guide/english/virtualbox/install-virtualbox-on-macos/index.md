@@ -20,7 +20,7 @@ Click the dmg file that was just downloaded, and you will see the verify screen.
 
 When you see the screen similar with following picture. You can click next until the installation finishes.   
 
-**Note**: It will notice you that your macOS didn't allow the unknown source. If you see the prompt box, press the setting button instead of the "OK" button. You can select the `allow` option in settings and restart the install.
+**Note**: It will notify you that your macOS didn't allow the unknown source. If you see the prompt box, press the setting button instead of the "OK" button. You can select the `allow` option in settings and restart the install.
 
 ![installation windows](https://i.imgur.com/4RY0hVu.png)
 

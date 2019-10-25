@@ -6,7 +6,7 @@ title: Ruby
 
 Ruby was created by Yukihiro "Matz" Matsumoto and is an <a href='https://github.com/ruby/ruby' target='_blank' rel='nofollow'>open source</a>, dynamic and interpreted scripting language for quick and easy object-oriented programming. Which means:
 
-It's also known to have one of the <a href="https://www.ruby-lang.org/en/community/">largest and friendly community</a> among programming languages. 
+It's also known to have one of the <a href="https://www.ruby-lang.org/en/community/">largest and friendliest communities</a> among programming languages. 
 
 *   Ability to make operating system calls directly
 *   Immediate feedback during development
@@ -16,7 +16,7 @@ It's also known to have one of the <a href="https://www.ruby-lang.org/en/communi
 *   Has "mixin" functionality by module
 *   Iterators and closures
 
-If you are unfamiliar with some of the concepts above, read on, and don't worry. Ruby focus on simplicity and productivity with an elegant syntax that is natural to read and easy to write, like:
+If you are unfamiliar with some of the concepts above, read on, and don't worry. Ruby focuses on simplicity and productivity with an elegant syntax that is natural to read and easy to write, like:
 ```ruby
 # Quick example of Ruby with Object Oriented Programming
 class Greeter
@@ -109,14 +109,14 @@ Prints each object to $stdout. Objects that aren’t strings will be converted b
 ```
 ## Frameworks(gems)
 
-Ruby has several frameworks(gems) for quickly scaffolding applications. The most popular by far is <a href='http://rubyonrails.org/' target='_blank' rel='nofollow'>Rails</a> which was initially released in 2004\. Other frameworks(gems) for Ruby include <a href='http://www.sinatrarb.com/' target='_blank' rel='nofollow'>Sinatra</a>, <a href='http://lotusrb.org/' target='_blank' rel='nofollow'>Lotus</a>, and <a href='http://voltframework.com/' target='_blank' rel='nofollow'>Volt</a>. Each of these options has their pros and cons for development and cater to a variety needs.
+Ruby has several frameworks(gems) for quickly scaffolding applications. The most popular by far is <a href='http://rubyonrails.org/' target='_blank' rel='nofollow'>Rails</a> which was initially released in 2004\. Other frameworks(gems) for Ruby include <a href='http://www.sinatrarb.com/' target='_blank' rel='nofollow'>Sinatra</a>, <a href='http://lotusrb.org/' target='_blank' rel='nofollow'>Lotus</a>, and <a href='http://voltframework.com/' target='_blank' rel='nofollow'>Volt</a>. Each of these options has their pros and cons for development and cater to a variety of needs.
 
 
 ## Ruby Framework for mobile development
-To write cross-platform native apps in Ruby, RUBY MOTION is used to develop cross-platform native apps for iOS, Android and OS X using the Ruby programming langauge.
+To write cross-platform native apps in Ruby, RUBY MOTION is used to develop native apps for iOS, Android and OS X using the Ruby programming langauge.
 More resources here: http://www.rubymotion.com/
 
 ## What after learning Ruby?
-Every programming language plays an imporatnt role . You can contribute to a lot of open source projects or you can apply for some big companies after having a good grasp on Ruby. As many big internet sites such as Basecamp, Airbnb, Bleacher Report, Fab.com, Scribd, Groupon, Gumroad, Hulu, Kickstarter, Pitchfork, Sendgrid, Soundcloud, Square, Yammer, Crunchbase, Slideshare, Funny or Die, Zendesk, Github, Shopify are build on Ruby so, there are plenty of option for you out there.
+Every programming language plays an important role . You can contribute to a lot of open source projects or you can apply for some big companies after having a good grasp on Ruby. As many big internet sites such as Basecamp, Airbnb, Bleacher Report, Fab.com, Scribd, Groupon, Gumroad, Hulu, Kickstarter, Pitchfork, Sendgrid, Soundcloud, Square, Yammer, Crunchbase, Slideshare, Funny or Die, Zendesk, Github, Shopify are built on Ruby so, there are plenty of options for you out there.
 Moreover, a lot of startups are hiring people who have skill in RUby on Rails as not many programmers try to learn Ruby. So,you might have a clear cut to work in a start-up company.
-So, Ruby is beginner friendly and is quite hard skill set to find you have a good number of openings to work as a developer.
+Since Ruby is beginner friendly and quite a rare skillset to find, you may have a good number of openings to work as a developer.
